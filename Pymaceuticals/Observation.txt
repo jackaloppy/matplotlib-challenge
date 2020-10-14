@@ -1,0 +1,5 @@
+1. Each drug group has evenly distributed mice number and sex ratio, meaning the outcome won't be biased from these two factors.
+
+2. Capomulin and ramicane are two drugs that could help reducing tumor volume better than the rest.
+
+3. Heavy mice tend to have larger tumor on average.
